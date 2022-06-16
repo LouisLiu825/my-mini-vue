@@ -1,0 +1,8 @@
+{
+  "name": "my-mini-vue",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/LouisLiu825/my-mini-vue.git",
+  "author": "Louis09 <7784810+louis09@user.noreply.gitee.com>",
+  "license": "MIT"
+}
